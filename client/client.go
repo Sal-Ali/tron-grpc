@@ -3,12 +3,14 @@ package client
 import (
 	"context"
 	"fmt"
+
 	"github.com/Sal-Ali/tron-grpc/wallet"
 
-	"github.com/Sal-Ali/tron-grpc/api"
+	"time"
+
+	api "github.com/Sal-Ali/tron-grpc/tronapi"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
-	"time"
 )
 
 //go:generate go run ../tools/generator/gen.go

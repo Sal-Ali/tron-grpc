@@ -4,7 +4,7 @@
 // 	protoc        v3.21.5
 // source: core/TronInventoryItems.proto
 
-package core
+package troncore
 
 import (
 	proto "github.com/golang/protobuf/proto"

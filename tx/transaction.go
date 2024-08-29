@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Sal-Ali/tron-grpc/api"
+	api "github.com/Sal-Ali/tron-grpc/tronapi"
 	core "github.com/Sal-Ali/tron-grpc/troncore"
 	"github.com/golang/protobuf/proto"
 )

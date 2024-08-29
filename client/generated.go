@@ -2,8 +2,9 @@ package client
 
 import (
 	"context"
-	"github.com/Sal-Ali/tron-grpc/api"
-	"github.com/Sal-Ali/tron-grpc/core"
+
+	api "github.com/Sal-Ali/tron-grpc/tronapi"
+	core "github.com/Sal-Ali/tron-grpc/troncore"
 	"google.golang.org/grpc"
 )
 

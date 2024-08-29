@@ -2,7 +2,7 @@ package client
 
 import (
 	"github.com/Sal-Ali/tron-grpc/address"
-	"github.com/Sal-Ali/tron-grpc/core"
+	core "github.com/Sal-Ali/tron-grpc/troncore"
 )
 
 type Signer interface {

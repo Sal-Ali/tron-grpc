@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	"github.com/Sal-Ali/tron-grpc/address"
-	"github.com/Sal-Ali/tron-grpc/api"
 	"github.com/Sal-Ali/tron-grpc/client"
+	api "github.com/Sal-Ali/tron-grpc/tronapi"
 	core "github.com/Sal-Ali/tron-grpc/troncore"
 	"github.com/Sal-Ali/tron-grpc/tx"
 	"github.com/golang/protobuf/proto"
