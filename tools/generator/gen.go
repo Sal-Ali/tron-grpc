@@ -118,8 +118,8 @@ func main() {
 
 import (
 	"context"
-	"github.com/fullstackwang/tron-grpc/api"
-	"github.com/fullstackwang/tron-grpc/core"
+	"github.com/Sal-Ali/tron-grpc/api"
+	"github.com/Sal-Ali/tron-grpc/core"
 	"google.golang.org/grpc"
 )
 `)

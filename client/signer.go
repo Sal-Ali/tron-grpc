@@ -1,8 +1,8 @@
 package client
 
 import (
-	"github.com/fullstackwang/tron-grpc/address"
-	"github.com/fullstackwang/tron-grpc/core"
+	"github.com/Sal-Ali/tron-grpc/address"
+	"github.com/Sal-Ali/tron-grpc/core"
 )
 
 type Signer interface {

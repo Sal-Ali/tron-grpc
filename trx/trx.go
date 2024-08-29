@@ -3,11 +3,12 @@ package trx
 import (
 	"context"
 	"fmt"
-	"github.com/fullstackwang/tron-grpc/address"
-	"github.com/fullstackwang/tron-grpc/api"
-	"github.com/fullstackwang/tron-grpc/client"
-	"github.com/fullstackwang/tron-grpc/core"
-	"github.com/fullstackwang/tron-grpc/tx"
+
+	"github.com/Sal-Ali/tron-grpc/address"
+	"github.com/Sal-Ali/tron-grpc/api"
+	"github.com/Sal-Ali/tron-grpc/client"
+	core "github.com/Sal-Ali/tron-grpc/troncore"
+	"github.com/Sal-Ali/tron-grpc/tx"
 	"github.com/golang/protobuf/proto"
 )
 
